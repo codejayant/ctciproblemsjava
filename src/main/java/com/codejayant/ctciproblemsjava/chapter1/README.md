@@ -1,4 +1,4 @@
-<h1> Chapter 1 : Arrays and Strings </h1>
+<h1> Chapter 1: Arrays and Strings </h1>
 
 <h3>Problem 1:</h3>
 <h4>Is Unique:</h4> 
